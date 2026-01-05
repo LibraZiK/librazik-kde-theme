@@ -1,11 +1,11 @@
 Source: librazik-theme-kde
 Section: x11
 Priority: optional
-Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
-Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
+Maintainer: Équipe LibraZiK <librazik@librazik.org>
+Uploaders: Olivier Humbert <trebmuh@librazik.org>
 Standards-Version: 4.3.0
 Build-Depends: debhelper-compat (= 13)
-Homepage: https://librazik.tuxfamily.org/
+Homepage: https://librazik.org/
 
 Package: librazik-theme-kde
 Architecture: all
@@ -14,6 +14,6 @@ Depends:
 Description: LibraZiK-4 - KDE Plasma theme
  This package contains the LibraZiK 4 theme for KDE Plasma desktop.
  .
- Documentation page : https://librazik.tuxfamily.org/doc4/paquets
+ Documentation page : https://doc4.librazik.org/paquets
  .
  LibraZiK audio studio package 2022 ©

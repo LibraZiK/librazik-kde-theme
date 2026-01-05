@@ -3,7 +3,7 @@ librazik-theme-kde (4.02) bullseye; urgency=medium
   * Reconstruction avec pbuilder pour LibraZiK-4.
     - adaptation de l'écran de démarrage pour LZK-4.
 
- -- Olivier Humbert <trebmuh@tuxfamily.org>  Sat, 15 Jan 2022 15:21:00 +0200
+ -- Olivier Humbert <trebmuh@librazik.org>  Sat, 15 Jan 2022 15:21:00 +0200
 
 librazik-theme-kde (4.01) bullseye; urgency=medium
 
@@ -20,14 +20,14 @@ librazik-theme-kde (4.01) bullseye; urgency=medium
   * debian/copyright :
       + passage à 2022.
 
- -- Olivier Humbert <trebmuh@tuxfamily.org>  Fri, 07 Jan 2022 23:43:00 +0200
+ -- Olivier Humbert <trebmuh@librazik.org>  Fri, 07 Jan 2022 23:43:00 +0200
 
 librazik-theme-kde (3.01) buster; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-3.
     - améliorations.
 
- -- Olivier Humbert <trebmuh@tuxfamily.org>  Sat, 03 Oct 2020 16:06:36 +0200
+ -- Olivier Humbert <trebmuh@librazik.org>  Sat, 03 Oct 2020 16:06:36 +0200
 
 librazik-theme-kde (3.00) buster; urgency=medium
 
@@ -37,4 +37,4 @@ librazik-theme-kde (3.00) buster; urgency=medium
     - desktoptheme: thème des panneaux, des composants graphiques, fond d'écran
       et icône de lanceur.
 
- -- Olivier Humbert <trebmuh@tuxfamily.org>  Mon, 28 Sep 2020 18:36:57 +0200
+ -- Olivier Humbert <trebmuh@librazik.org>  Mon, 28 Sep 2020 18:36:57 +0200
